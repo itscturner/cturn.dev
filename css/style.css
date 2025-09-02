@@ -15,6 +15,11 @@ p {
   color: #555; /* Sets a medium gray text color */
 }
 
+a {
+  color: #DD7878;
+  text-decoration: none;
+}
+
 #main {
   width: 80%;
   margin: 0 auto;
