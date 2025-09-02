@@ -1,1 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 20px;
+}
 
+h1 {
+  color: #333; /* Sets a dark gray text color */
+  text-align: center;
+}
+
+p {
+  line-height: 1.6; /* Adjusts the spacing between lines of text */
+  color: #555; /* Sets a medium gray text color */
+}
+
+#main {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
