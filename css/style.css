@@ -6,13 +6,13 @@ body {
 }
 
 h1 {
-  color: #333; /* Sets a dark gray text color */
+  color: #DD7878;
   text-align: center;
 }
 
 p {
-  line-height: 1.6; /* Adjusts the spacing between lines of text */
-  color: #555; /* Sets a medium gray text color */
+  line-height: 1.6;
+  color: #DD7878;
 }
 
 a {
